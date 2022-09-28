@@ -6,3 +6,7 @@ This project is also a good lesson in C optimization as we need to save every bi
 
 
 PS : If you are a 42 student visiting this project, please do not copy/paste and make sure to always understand the code you are writing.
+
+## Grade and Badge
+
+![image](https://user-images.githubusercontent.com/85964972/132143431-66093bfc-2abc-4ab0-a780-d29c99e15a71.png)
